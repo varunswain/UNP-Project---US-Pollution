@@ -8,4 +8,4 @@ Created a stacked bar chart displaying Average CO, NO2, O3, and SO2 AQI by State
 Applied Trends and Forecast analysis for 5-year pollutant trends.
 Analyzed peak pollution trends over the years for each pollutant, offering comprehensive insights into air quality patterns and trends.
 Greatly supported in the development of user-friendly interfaces and data visualization.
-pdf link- 
+pdf link-https://drive.google.com/file/d/13Umy3i_Md6L6pplH2DkwssbcpE2a9blx/view?usp=drivesdk 
