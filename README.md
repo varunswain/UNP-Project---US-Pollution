@@ -1,4 +1,4 @@
-# UNP-Project---US-Pollution
+#UNP_PROJECT_BI_WITH_POWERBI_US_POLLUTION
 The dataset provides concise data on air quality monitoring in the United States. It covers pollutants like NO2, O3, SO2, and CO, offering measurements such as mean concentrations, maximum values, and AQI for each pollutant across various locations. This dataset facilitates analysis of air quality trends and their regional impacts.
 KPIs:1. Calculated average AQI (NO2, CO, O3, SO2) by State and Time using DAX functions (AVERAGEX, GROUPBY). Determined maximum AQI (NO2, CO, O3, SO2) by Time using DAX MAX function.
 Metrics:Calculated average and maximum AQI values (NO2, CO, O3, SO2) using appropriate DAX measures (AVERAGE, MAX).
